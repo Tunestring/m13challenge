@@ -40,7 +40,7 @@ This project uses the MIT license.
 
 ## Contributing
 
-Helpful e-mails or tips to make this project work better are ALWAYS appreciated. Even helpful criticism would be warmly welcomed. Special shoutout to my classmates, TA, and instructor for making this project achievable.
+Helpful e-mails or tips to make this project work better are ALWAYS appreciated. Even helpful criticism would be warmly welcomed. Special shoutout to my classmates, TA, and instructor for making this project achievable. Also a huge thank you to my tutors who have help make this project understandable and make the logic and reasoning digestable.
 
 ## Tests
 
